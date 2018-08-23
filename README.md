@@ -6,7 +6,8 @@ SYNOPSIS  A brief summary
 DESCRIPTION OV(tm) toolkit is a toolkit available from Intel(r) that includes pretrained models, inference algorithms, and other stuff... - more here. 
 
 USAGE
-./intel64/Release/face_detection_tutorial -m $mFDA32 -m_ag $mAG32 -m_hp $mHP32 -i ../head-pose-face-detection-male.mp4 -pc
+
+        ./intel64/Release/face_detection_tutorial -m $mFDA32 -m_ag $mAG32 -m_hp $mHP32 -i ../head-pose-face-detection-male.mp4 -pc
 
 OPTIONS
 
